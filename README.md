@@ -1,3 +1,7 @@
+### Demographic & Income Analysis ###
+
+This project presents an analytical overview of educational attainment and household income across the United States, with a particular emphasis on county-level trends in Kentucky. Using publicly available datasets, the analysis examines how education levels relate to median household income and how these patterns vary across different states and regions.
+
 ## Analysis Steps
 1. **Data Cleaning**  
    - Removed metadata and notes rows from datasets.
